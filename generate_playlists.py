@@ -23,15 +23,15 @@ REQUEST_TIMEOUT = 30
 # GROUP_METHOD: "api" / "chno" / "hybrid" (Hanya untuk ROKU)
 
 PLUTO_REGION_FILTER = ('us', 'gb', 'ca')
-PLUTO_GROUP_FILTER = ('Anime', 'Kids', 'Movies')
+PLUTO_GROUP_FILTER = ('Movies')
 
 SAMSUNG_REGION_FILTER = ('us', 'gb', 'ca')
-SAMSUNG_GROUP_FILTER = ('Anime & Gaming', 'Kids', 'Movies')
+SAMSUNG_GROUP_FILTER = ('Movies')
 
-TCL_GROUP_FILTER = ('Anime', 'Family & Kids', 'Movies')
+TCL_GROUP_FILTER = ('Movies')
 
 ROKU_GROUP_METHOD = ('hybrid')
-ROKU_GROUP_FILTER = ('Kids', 'Movies')
+ROKU_GROUP_FILTER = ('Movies')
 
 # ===================================================================
 
