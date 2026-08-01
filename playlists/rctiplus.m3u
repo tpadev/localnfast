@@ -1,12 +1,17 @@
 #EXTM3U
-# Generated: 2026-08-01 13:44:23
+# Generated: 2026-08-01 19:20:32
 
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785627862~hmac=e80cb7b7f2613001c840efcd8386990729ef81722c9ef61a95c77181f22e901c
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785648030~hmac=42acf859286e87e07b5ef596d59ee53fd0c82c1f26d60f83ec03007670e0976a
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785627862~hmac=73a4a0ec9b087e059331ab24acb87f603256160d7c8f59a734159293dfebfb68
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785648031~hmac=4ff7c2f2c5bc768cd1f29ad1ac66baa671b45bc3063cb7e7e9787fef74d032d1
+
+#EXTINF:-1 tvg-id="GTV" group-title="Nasional" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1785648031~hmac=1995629fe4bb97c90bf0e7bb15caa5d75e293f90b59826fcfe24a0899ec2693f
